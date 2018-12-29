@@ -7,10 +7,6 @@ header {
 	color: #FFFFFF;
 }
 
-ul {
-	list-style: none;
-}
-
 li {
 	display: inline-block;
 	margin: 5px 10px 5px 10px;
