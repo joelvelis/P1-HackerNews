@@ -2,18 +2,13 @@ header {
 	background-color: blue;
 }
 
-.links {
-	text-decoration: none;
-	color: #FFFFFF;
-}
-
 li {
 	display: inline-block;
 	margin: 5px 10px 5px 10px;
 }
 
 #login {
-	margin-left: 300px
+	float: right;
 }
 
 body {
