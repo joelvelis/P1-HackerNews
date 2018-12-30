@@ -2,7 +2,7 @@ header {
 	background-color: blue;
 }
 
-li {
+li.li1 {
 	display: inline-block;
 	margin: 5px 10px 5px 10px;
 }
@@ -33,12 +33,14 @@ legend {
 	font-weight: bold;
 }
 
-a:visited, a:link {
+a.list1:visited, a.list1:link {
 	color: #FFFFFF;
 	text-decoration: none;
 }
 
-a:hover, a.current:link, a.current:visited {
+a.list1:hover, a.current:link, a.current:visited {
 	background-color: #FFFFFF;
 	color: blue;
 }
+
+
