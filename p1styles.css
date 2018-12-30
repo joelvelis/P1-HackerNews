@@ -33,12 +33,12 @@ legend {
 	font-weight: bold;
 }
 
-a:visited, a:link, a:visited {
+a:visited, a:link {
 	color: #FFFFFF;
 	text-decoration: none;
 }
 
-a:hover, a:active, a.current:link {
+a:hover, a.current:link, a.current:visited {
 	background-color: #FFFFFF;
 	color: blue;
 }
