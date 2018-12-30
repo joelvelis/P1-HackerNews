@@ -15,9 +15,14 @@ body {
 	background-color: #F0F8FF;
 }
 
-hr {
-	margin-top: 550px;
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
 }
+
 
 fieldset {
 	border: 0;
